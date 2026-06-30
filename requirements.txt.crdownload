@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+altair
+scikit-learn
+sentence-transformers
+spacy
+PyMuPDF
+pdfplumber
+resume-parser
